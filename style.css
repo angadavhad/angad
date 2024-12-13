@@ -1,0 +1,23 @@
+.top_menu{
+  background-color:#396CF0 ;
+}
+.box_1{
+  background-color:#3C70FA;
+}
+.text_1{
+  font-family: Verdana;
+}
+.box_2{
+  height: 900px;
+  background-color: #F3F3F3;
+}
+.box_3{
+  height: 200px;
+  background-color: #4A72DC;
+}
+.menu12{
+    margin-left: 20%;
+}
+.mete{
+  list-style-type: none;
+  }
